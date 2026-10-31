@@ -1,4 +1,4 @@
-# amaraREPS Freebies
+# 🎁 Skills Freebies
 
 Free tools from amaraREPS to help you get more out of AI in your day to day work. Take them, use them, share them.
 
