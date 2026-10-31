@@ -1,6 +1,6 @@
 # 🎁 Skills Freebies
 
-Free tools from amaraREPS to help you get more out of AI in your day to day work. Take them, use them, share them.
+Free Claude skills by Amara (@queenamara) to help you get more out of AI in your day to day work. Take them, use them, share them.
 
 ## What's inside
 
@@ -18,6 +18,6 @@ More coming soon.
 4. Make sure the skill is turned on.
 5. Start a new chat and say something like "Help me get started with Duet." Claude will pick up the skill and walk you through it.
 
-## About amaraREPS
+## About me
 
-amaraREPS helps teams run cleaner revenue operations and put AI to work where it actually saves time. Learn more at [amarareps.com](https://amarareps.com).
+I'm Amara (@queenamara). I share how I use AI to cut down on clicks, tabs and busywork. Follow along on [LinkedIn](https://www.linkedin.com/in/amaraomoregie/).
