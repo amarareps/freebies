@@ -2,6 +2,8 @@
 
 Free Claude skills by Amara (@queenamara) to help you get more out of AI in your day to day work. Take them, use them, share them.
 
+> **Claude Duet has a waitlist.** [Click here to join it and get access.](https://claude.com/product/claude-duet)
+
 ## What's inside
 
 | Freebie | What it does |
