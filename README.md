@@ -8,7 +8,9 @@ Free Claude skills by Amara (@queenamara) to help you get more out of AI in your
 
 | Freebie | What it does |
 | --- | --- |
-| [Duet Getting Started](skills/duet-getting-started/SKILL.md) | A Claude skill that walks you through setting up Claude Duet as your chief of staff, one step at a time. |
+| [Duet Getting Started](skills/duet-getting-started/SKILL.md) | A Claude skill that walks you through setting up Claude Duet as your chief of staff, one step at a time. Duet triages, learns and prioritizes, and this gets you there fast. |
+
+📖 **Want the full story first?** [Read how I turned Claude Duet into my AI chief of staff in less than an hour.](https://www.linkedin.com/pulse/how-i-turned-claude-duet-my-ai-chief-staff-less-than-hour-omoregie-r8cje/)
 
 More coming soon.
 
